@@ -99,11 +99,11 @@
     "tipo": "Accesorio",
     "nombre": "Manopla Corazon",
     "precio": "8000",
-    "foto": "../media/products/manopla-corazon.jpeg"
+    "foto": "../media/products/manoplacorazon.jpeg"
 }, {
     "id": "18",
     "tipo": "Accesorio",
     "nombre": "Manopla Gatitos",
     "precio": "8000",
-    "foto": "../media/products/manopla-gatito.jpeg"
+    "foto": "../media/products/manoplagatito.jpeg"
 }]
